@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Prasad jk <br>🎓 Information Science & Engineering student  <br>💻 Java | C++ | Python | Backend & DSA  <br>🚀 Learning • Building • Improving every day<br>
+👋 Hi, I'm Prasad <br>🎓 Information Science & Engineering student  <br>💻 Java | C++ | Python | Backend & DSA  <br>🚀 Learning • Building • Improving every day<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__prasad17/)
