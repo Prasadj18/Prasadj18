@@ -1,4 +1,4 @@
-# Hi, I'm Prasada 👋
+# Hey, Prasad this side...!
 
 Information Science and Engineering student focused on Full-Stack Development, Blockchain, and Data Structures & Algorithms.
 
