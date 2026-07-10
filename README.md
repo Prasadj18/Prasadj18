@@ -9,9 +9,14 @@ Information Science and Engineering student focused on Full-Stack Development, B
 - Blockchain Projects
 - Problem Solving
 
-## Tech
+##TechStack
 
-C++ • Java • Python • JavaScript • React • Node.js • Express • MongoDB • MySQL • Solidity • Git
+- Languages: C, C++, Java, Python
+- Web Development: HTML, CSS, JavaScript, React.js, Node.js
+- Databases: MongoDB, MySQL, Firebase
+- Core CS: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+- Tools & OS: Git, GitHub, VS Code, Windows 10/11, Ubuntu
+- Concepts: REST APIs, Socket.io, User Authentication, Blockchain Basics
 
 ## Currently Learning
 
