@@ -1,4 +1,4 @@
-# Hi, I'm Prasada..!
+# Hi, I'm Prasad..!
 
 Information Science and Engineering student passionate about Full-Stack Development, Blockchain, and Data Structures & Algorithms. I enjoy building scalable web applications and continuously improving my problem-solving skills.
 
